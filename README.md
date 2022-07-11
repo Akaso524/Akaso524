@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akaso524
-- 👀 I’m interested in learning Wed development
+- 👀 I’m interested in learning Web development
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on writing good codes
 - 📫 I can be reached on my email, iehikioya@gmail.com.
